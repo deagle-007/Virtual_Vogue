@@ -9,7 +9,7 @@ This is the official implementation of **Virtual Vogue**, an AI-powered virtual 
 ## Requirements
 
 ```bash
-git clone https://github.com/yourusername/VirtualVogue.git
+git clone https://github.com/deagle-007/Virtual_Vogue.git
 cd VirtualVogue
 conda env create -f environment.yaml
 conda activate virtualvogue
